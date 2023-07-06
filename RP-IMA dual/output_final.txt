@@ -1,0 +1,1814 @@
+IRI
+{'n_neurons': 150, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 2.540152E-01+/-2.963243E-03
+Norm L0 (10%): 20.400000000+/-14.192955999
+Norm L0 (1%): 72.600000000+/-25.570295266
+Norm L0 (0.1%): 125.600000000+/-7.213875519
+Norm L0 (0.01%): 134.400000000+/-0.663324958
+Iterations: 1.0
+
+
+
+{'n_neurons': 75, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 1.686422E-01+/-3.722434E-02
+Norm L0 (10%): 25.900000000+/-10.737318101
+Norm L0 (1%): 85.200000000+/-19.625493624
+Norm L0 (0.1%): 121.100000000+/-9.606768447
+Norm L0 (0.01%): 132.700000000+/-2.193171220
+Iterations: 1.0
+
+
+
+{'n_neurons': 50, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 6.639494E-02+/-3.057365E-02
+Norm L0 (10%): 25.200000000+/-12.694880858
+Norm L0 (1%): 81.700000000+/-15.799050604
+Norm L0 (0.1%): 121.100000000+/-7.244998275
+Norm L0 (0.01%): 132.700000000+/-2.147091055
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 150, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 3.519188E-01+/-8.662871E-03
+Norm L0 (10%): 20.400000000+/-1.200000000
+Norm L0 (1%): 23.900000000+/-1.513274595
+Norm L0 (0.1%): 24.200000000+/-1.248999600
+Norm L0 (0.01%): 24.400000000+/-1.280624847
+Iterations: 12.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 75, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.156405E-01+/-8.598253E-03
+Norm L0 (10%): 14.800000000+/-0.871779789
+Norm L0 (1%): 16.400000000+/-1.428285686
+Norm L0 (0.1%): 16.700000000+/-1.268857754
+Norm L0 (0.01%): 16.900000000+/-1.300000000
+Iterations: 10.6
+
+
+
+{'kernel': 'rbf', 'n_neurons': 50, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.370146E-01+/-1.160921E-02
+Norm L0 (10%): 11.600000000+/-1.685229955
+Norm L0 (1%): 13.300000000+/-2.051828453
+Norm L0 (0.1%): 13.500000000+/-2.156385865
+Norm L0 (0.01%): 13.800000000+/-2.227105745
+Iterations: 8.8
+
+
+
+SYN
+{'n_neurons': 600, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.303322E-02+/-3.281343E-08
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 300, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.313960E-02+/-4.126313E-05
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 200, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9983+/-0.0050
+Mean Precision: 0.9968+/-0.0097
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9984+/-0.0049
+Mean Margin: 4.451721E-02+/-4.413410E-04
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 600, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.303308E-02+/-3.281555E-08
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 300, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 4.292587E-02+/-4.165050E-05
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 200, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9983+/-0.0050
+Mean Precision: 0.9968+/-0.0097
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9984+/-0.0049
+Mean Margin: 4.335275E-02+/-4.025104E-04
+Norm L0 (10%): 540.000000000+/-0.000000000
+Norm L0 (1%): 540.000000000+/-0.000000000
+Norm L0 (0.1%): 540.000000000+/-0.000000000
+Norm L0 (0.01%): 540.000000000+/-0.000000000
+Iterations: 7.4
+
+
+
+ION
+{'n_neurons': 351, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8659+/-0.0560
+Mean Precision: 0.8489+/-0.0725
+Mean Recall: 0.9733+/-0.0356
+Mean F1 Score: 0.9043+/-0.0364
+Mean Margin: 5.763921E-02+/-1.131414E-04
+Norm L0 (10%): 313.200000000+/-0.979795897
+Norm L0 (1%): 315.600000000+/-0.489897949
+Norm L0 (0.1%): 315.900000000+/-0.300000000
+Norm L0 (0.01%): 315.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 175, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8745+/-0.0369
+Mean Precision: 0.8527+/-0.0484
+Mean Recall: 0.9777+/-0.0359
+Mean F1 Score: 0.9095+/-0.0252
+Mean Margin: 5.931347E-02+/-2.617586E-04
+Norm L0 (10%): 313.400000000+/-1.113552873
+Norm L0 (1%): 315.800000000+/-0.400000000
+Norm L0 (0.1%): 315.900000000+/-0.300000000
+Norm L0 (0.01%): 315.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 117, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8630+/-0.0688
+Mean Precision: 0.8454+/-0.0779
+Mean Recall: 0.9731+/-0.0357
+Mean F1 Score: 0.9025+/-0.0462
+Mean Margin: 6.066956E-02+/-4.081514E-04
+Norm L0 (10%): 309.700000000+/-1.417744688
+Norm L0 (1%): 315.300000000+/-0.781024968
+Norm L0 (0.1%): 315.700000000+/-0.458257569
+Norm L0 (0.01%): 315.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 351, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8659+/-0.0560
+Mean Precision: 0.8489+/-0.0725
+Mean Recall: 0.9733+/-0.0356
+Mean F1 Score: 0.9043+/-0.0364
+Mean Margin: 5.631052E-02+/-1.118841E-04
+Norm L0 (10%): 312.500000000+/-0.921954446
+Norm L0 (1%): 314.400000000+/-1.019803903
+Norm L0 (0.1%): 314.400000000+/-1.019803903
+Norm L0 (0.01%): 314.400000000+/-1.019803903
+Iterations: 8.6
+
+
+
+{'kernel': 'rbf', 'n_neurons': 175, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8745+/-0.0369
+Mean Precision: 0.8527+/-0.0484
+Mean Recall: 0.9777+/-0.0359
+Mean F1 Score: 0.9095+/-0.0252
+Mean Margin: 5.441863E-02+/-2.726729E-03
+Norm L0 (10%): 306.700000000+/-2.051828453
+Norm L0 (1%): 307.900000000+/-1.868154169
+Norm L0 (0.1%): 308.300000000+/-1.846618531
+Norm L0 (0.01%): 309.000000000+/-1.788854382
+Iterations: 19.9
+
+
+
+{'kernel': 'rbf', 'n_neurons': 117, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8660+/-0.0629
+Mean Precision: 0.8467+/-0.0668
+Mean Recall: 0.9731+/-0.0357
+Mean F1 Score: 0.9039+/-0.0427
+Mean Margin: 4.773456E-02+/-2.742420E-03
+Norm L0 (10%): 299.300000000+/-2.325940670
+Norm L0 (1%): 301.200000000+/-1.886796226
+Norm L0 (0.1%): 301.400000000+/-1.959591794
+Norm L0 (0.01%): 301.400000000+/-1.959591794
+Iterations: 20.0
+
+
+
+WIN
+{'n_neurons': 178, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9775+/-0.0372
+Mean Precision: 0.9659+/-0.0560
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9818+/-0.0302
+Mean Margin: 9.783880E-02+/-1.934907E-03
+Norm L0 (10%): 155.800000000+/-1.077032961
+Norm L0 (1%): 159.300000000+/-1.187434209
+Norm L0 (0.1%): 160.000000000+/-0.632455532
+Norm L0 (0.01%): 160.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 89, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9660+/-0.0448
+Mean Precision: 0.9652+/-0.0567
+Mean Recall: 0.9809+/-0.0382
+Mean F1 Score: 0.9718+/-0.0369
+Mean Margin: 1.213443E-01+/-2.927335E-03
+Norm L0 (10%): 129.400000000+/-6.887670143
+Norm L0 (1%): 157.300000000+/-1.100000000
+Norm L0 (0.1%): 159.700000000+/-0.781024968
+Norm L0 (0.01%): 159.900000000+/-0.830662386
+Iterations: 1.0
+
+
+
+{'n_neurons': 59, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9716+/-0.0378
+Mean Precision: 0.9826+/-0.0349
+Mean Recall: 0.9718+/-0.0593
+Mean F1 Score: 0.9756+/-0.0331
+Mean Margin: 1.278556E-01+/-3.979101E-03
+Norm L0 (10%): 87.500000000+/-22.848413512
+Norm L0 (1%): 152.700000000+/-3.465544690
+Norm L0 (0.1%): 159.500000000+/-0.921954446
+Norm L0 (0.01%): 160.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 178, 'regularization_term': 0.001}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9716+/-0.0285
+Mean Precision: 0.9652+/-0.0427
+Mean Recall: 0.9900+/-0.0300
+Mean F1 Score: 0.9765+/-0.0236
+Mean Margin: 7.558536E-02+/-3.141448E-03
+Norm L0 (10%): 148.600000000+/-2.690724809
+Norm L0 (1%): 151.900000000+/-3.477067730
+Norm L0 (0.1%): 151.900000000+/-3.477067730
+Norm L0 (0.01%): 155.600000000+/-3.292415527
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 89, 'regularization_term': 0.01}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9716+/-0.0378
+Mean Precision: 0.9727+/-0.0417
+Mean Recall: 0.9809+/-0.0382
+Mean F1 Score: 0.9761+/-0.0314
+Mean Margin: 6.114792E-02+/-1.836385E-02
+Norm L0 (10%): 77.400000000+/-21.185844331
+Norm L0 (1%): 77.400000000+/-21.185844331
+Norm L0 (0.1%): 77.400000000+/-21.185844331
+Norm L0 (0.01%): 135.900000000+/-30.927172519
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 59, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9660+/-0.0373
+Mean Precision: 0.9735+/-0.0405
+Mean Recall: 0.9718+/-0.0593
+Mean F1 Score: 0.9709+/-0.0327
+Mean Margin: 8.466709E-02+/-1.754715E-02
+Norm L0 (10%): 74.100000000+/-15.345683432
+Norm L0 (1%): 74.100000000+/-15.345683432
+Norm L0 (0.1%): 74.100000000+/-15.345683432
+Norm L0 (0.01%): 148.800000000+/-23.059921943
+Iterations: 20.0
+
+
+
+WDBC
+{'n_neurons': 569, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9560+/-0.0226
+Mean Precision: 0.9596+/-0.0264
+Mean Recall: 0.9717+/-0.0337
+Mean F1 Score: 0.9650+/-0.0188
+Mean Margin: 4.472966E-02+/-5.692449E-05
+Norm L0 (10%): 512.100000000+/-0.300000000
+Norm L0 (1%): 512.100000000+/-0.300000000
+Norm L0 (0.1%): 512.100000000+/-0.300000000
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 284, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9631+/-0.0184
+Mean Precision: 0.9600+/-0.0264
+Mean Recall: 0.9830+/-0.0189
+Mean F1 Score: 0.9710+/-0.0144
+Mean Margin: 1.488193E-01+/-3.266815E-04
+Norm L0 (10%): 512.100000000+/-0.300000000
+Norm L0 (1%): 512.100000000+/-0.300000000
+Norm L0 (0.1%): 512.100000000+/-0.300000000
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 189, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9648+/-0.0224
+Mean Precision: 0.9651+/-0.0286
+Mean Recall: 0.9802+/-0.0223
+Mean F1 Score: 0.9722+/-0.0177
+Mean Margin: 7.061868E-02+/-7.781413E-04
+Norm L0 (10%): 498.100000000+/-2.736786437
+Norm L0 (1%): 511.400000000+/-0.663324958
+Norm L0 (0.1%): 511.900000000+/-0.538516481
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 569, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9560+/-0.0226
+Mean Precision: 0.9596+/-0.0264
+Mean Recall: 0.9717+/-0.0337
+Mean F1 Score: 0.9650+/-0.0188
+Mean Margin: 4.355276E-02+/-1.216774E-04
+Norm L0 (10%): 512.100000000+/-0.300000000
+Norm L0 (1%): 512.100000000+/-0.300000000
+Norm L0 (0.1%): 512.100000000+/-0.300000000
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 6.2
+
+
+
+{'kernel': 'rbf', 'n_neurons': 284, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9631+/-0.0184
+Mean Precision: 0.9600+/-0.0264
+Mean Recall: 0.9830+/-0.0189
+Mean F1 Score: 0.9710+/-0.0144
+Mean Margin: 1.449341E-01+/-6.797330E-04
+Norm L0 (10%): 512.100000000+/-0.300000000
+Norm L0 (1%): 512.100000000+/-0.300000000
+Norm L0 (0.1%): 512.100000000+/-0.300000000
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 8.5
+
+
+
+{'kernel': 'rbf', 'n_neurons': 189, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9965+/-0.0008
+Mean Accuracy: 0.9683+/-0.0220
+Mean Precision: 0.9653+/-0.0285
+Mean Recall: 0.9858+/-0.0191
+Mean F1 Score: 0.9751+/-0.0172
+Mean Margin: 1.344365E-01+/-6.925207E-03
+Norm L0 (10%): 512.100000000+/-0.300000000
+Norm L0 (1%): 512.100000000+/-0.300000000
+Norm L0 (0.1%): 512.100000000+/-0.300000000
+Norm L0 (0.01%): 512.100000000+/-0.300000000
+Iterations: 19.9
+
+
+
+SON
+{'n_neurons': 208, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8462+/-0.0821
+Mean Precision: 0.8688+/-0.0819
+Mean Recall: 0.7922+/-0.1475
+Mean F1 Score: 0.8213+/-0.1006
+Mean Margin: 7.308839E-02+/-7.788581E-05
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 104, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8414+/-0.0835
+Mean Precision: 0.8953+/-0.1047
+Mean Recall: 0.7389+/-0.1366
+Mean F1 Score: 0.8063+/-0.1194
+Mean Margin: 7.310814E-02+/-7.956372E-05
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 69, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8174+/-0.0736
+Mean Precision: 0.8606+/-0.1100
+Mean Recall: 0.7411+/-0.1004
+Mean F1 Score: 0.7906+/-0.0833
+Mean Margin: 7.321816E-02+/-9.950118E-05
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 208, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8462+/-0.0821
+Mean Precision: 0.8688+/-0.0819
+Mean Recall: 0.7922+/-0.1475
+Mean F1 Score: 0.8213+/-0.1006
+Mean Margin: 7.308819E-02+/-7.791157E-05
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 104, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8414+/-0.0835
+Mean Precision: 0.8953+/-0.1047
+Mean Recall: 0.7389+/-0.1366
+Mean F1 Score: 0.8063+/-0.1194
+Mean Margin: 7.306576E-02+/-7.649363E-05
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 69, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8174+/-0.0736
+Mean Precision: 0.8606+/-0.1100
+Mean Recall: 0.7411+/-0.1004
+Mean F1 Score: 0.7906+/-0.0833
+Mean Margin: 7.291413E-02+/-1.301953E-04
+Norm L0 (10%): 187.200000000+/-0.400000000
+Norm L0 (1%): 187.200000000+/-0.400000000
+Norm L0 (0.1%): 187.200000000+/-0.400000000
+Norm L0 (0.01%): 187.200000000+/-0.400000000
+Iterations: 2.0
+
+
+
+DIA
+{'n_neurons': 768, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9961+/-0.0011
+Mean Accuracy: 0.6954+/-0.0409
+Mean Precision: 0.5769+/-0.0729
+Mean Recall: 0.4701+/-0.0959
+Mean F1 Score: 0.5152+/-0.0805
+Mean Margin: 1.273314E-01+/-1.405062E-04
+Norm L0 (10%): 691.200000000+/-0.400000000
+Norm L0 (1%): 691.200000000+/-0.400000000
+Norm L0 (0.1%): 691.200000000+/-0.400000000
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 384, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9518+/-0.0042
+Mean Accuracy: 0.7097+/-0.0419
+Mean Precision: 0.6135+/-0.0862
+Mean Recall: 0.4551+/-0.0941
+Mean F1 Score: 0.5190+/-0.0843
+Mean Margin: 1.307943E-01+/-3.186158E-04
+Norm L0 (10%): 691.200000000+/-0.400000000
+Norm L0 (1%): 691.200000000+/-0.400000000
+Norm L0 (0.1%): 691.200000000+/-0.400000000
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 256, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9252+/-0.0052
+Mean Accuracy: 0.7148+/-0.0382
+Mean Precision: 0.6302+/-0.0846
+Mean Recall: 0.4477+/-0.0667
+Mean F1 Score: 0.5219+/-0.0680
+Mean Margin: 1.339568E-01+/-4.809770E-04
+Norm L0 (10%): 690.900000000+/-0.538516481
+Norm L0 (1%): 691.200000000+/-0.400000000
+Norm L0 (0.1%): 691.200000000+/-0.400000000
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 768, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9962+/-0.0010
+Mean Accuracy: 0.6967+/-0.0416
+Mean Precision: 0.5790+/-0.0734
+Mean Recall: 0.4701+/-0.0959
+Mean F1 Score: 0.5163+/-0.0818
+Mean Margin: 1.235324E-01+/-4.695702E-04
+Norm L0 (10%): 691.200000000+/-0.400000000
+Norm L0 (1%): 691.200000000+/-0.400000000
+Norm L0 (0.1%): 691.200000000+/-0.400000000
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 13.6
+
+
+
+{'kernel': 'rbf', 'n_neurons': 384, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9508+/-0.0069
+Mean Accuracy: 0.7070+/-0.0452
+Mean Precision: 0.6071+/-0.0920
+Mean Recall: 0.4625+/-0.0959
+Mean F1 Score: 0.5211+/-0.0854
+Mean Margin: 9.109591E-02+/-3.937682E-03
+Norm L0 (10%): 690.700000000+/-1.345362405
+Norm L0 (1%): 691.200000000+/-0.400000000
+Norm L0 (0.1%): 691.200000000+/-0.400000000
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 256, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9572+/-0.0192
+Mean Accuracy: 0.6836+/-0.0449
+Mean Precision: 0.5518+/-0.0723
+Mean Recall: 0.5034+/-0.0817
+Mean F1 Score: 0.5248+/-0.0723
+Mean Margin: 1.537547E-02+/-3.011462E-02
+Norm L0 (10%): 410.400000000+/-126.946602948
+Norm L0 (1%): 410.400000000+/-126.946602948
+Norm L0 (0.1%): 410.400000000+/-126.946602948
+Norm L0 (0.01%): 691.200000000+/-0.400000000
+Iterations: 20.0
+
+
+
+HEA
+{'n_neurons': 270, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9963+/-0.0012
+Mean Accuracy: 0.7667+/-0.0704
+Mean Precision: 0.7777+/-0.0602
+Mean Recall: 0.8133+/-0.0718
+Mean F1 Score: 0.7945+/-0.0622
+Mean Margin: 9.396171E-02+/-4.598017E-04
+Norm L0 (10%): 242.900000000+/-0.300000000
+Norm L0 (1%): 243.000000000+/-0.000000000
+Norm L0 (0.1%): 243.000000000+/-0.000000000
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 135, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.7741+/-0.0819
+Mean Precision: 0.7961+/-0.0736
+Mean Recall: 0.8000+/-0.0894
+Mean F1 Score: 0.7966+/-0.0747
+Mean Margin: 6.592752E-02+/-1.414390E-03
+Norm L0 (10%): 133.800000000+/-69.832370717
+Norm L0 (1%): 239.900000000+/-1.445683229
+Norm L0 (0.1%): 242.700000000+/-0.640312424
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 90, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9745+/-0.0031
+Mean Accuracy: 0.7852+/-0.0699
+Mean Precision: 0.7882+/-0.0592
+Mean Recall: 0.8400+/-0.0854
+Mean F1 Score: 0.8119+/-0.0646
+Mean Margin: 2.193374E-01+/-8.240891E-04
+Norm L0 (10%): 243.000000000+/-0.000000000
+Norm L0 (1%): 243.000000000+/-0.000000000
+Norm L0 (0.1%): 243.000000000+/-0.000000000
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 270, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9967+/-0.0016
+Mean Accuracy: 0.7630+/-0.0726
+Mean Precision: 0.7740+/-0.0645
+Mean Recall: 0.8133+/-0.0718
+Mean F1 Score: 0.7922+/-0.0625
+Mean Margin: 1.181180E-02+/-2.167417E-02
+Norm L0 (10%): 200.400000000+/-14.934523762
+Norm L0 (1%): 200.500000000+/-15.213480864
+Norm L0 (0.1%): 200.500000000+/-15.213480864
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 135, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9860+/-0.0046
+Mean Accuracy: 0.7667+/-0.0742
+Mean Precision: 0.7751+/-0.0639
+Mean Recall: 0.8200+/-0.0945
+Mean F1 Score: 0.7949+/-0.0685
+Mean Margin: 1.826089E-01+/-1.129991E-02
+Norm L0 (10%): 243.000000000+/-0.000000000
+Norm L0 (1%): 243.000000000+/-0.000000000
+Norm L0 (0.1%): 243.000000000+/-0.000000000
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 90, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9938+/-0.0028
+Mean Accuracy: 0.7667+/-0.0643
+Mean Precision: 0.7753+/-0.0563
+Mean Recall: 0.8200+/-0.0945
+Mean F1 Score: 0.7945+/-0.0622
+Mean Margin: 1.502869E-03+/-3.545975E-04
+Norm L0 (10%): 132.300000000+/-6.034069937
+Norm L0 (1%): 132.300000000+/-6.034069937
+Norm L0 (0.1%): 132.300000000+/-6.034069937
+Norm L0 (0.01%): 243.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+BAN
+{'n_neurons': 1000, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9985+/-0.0029
+Mean Precision: 0.9968+/-0.0065
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9984+/-0.0033
+Mean Margin: 5.817675E-02+/-8.999489E-04
+Norm L0 (10%): 13.600000000+/-2.107130751
+Norm L0 (1%): 21.100000000+/-3.269556545
+Norm L0 (0.1%): 36.400000000+/-14.779715829
+Norm L0 (0.01%): 676.800000000+/-112.665700193
+Iterations: 1.0
+
+
+
+{'n_neurons': 500, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9993+/-0.0022
+Mean Precision: 0.9984+/-0.0048
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9992+/-0.0024
+Mean Margin: 7.122489E-02+/-6.435140E-04
+Norm L0 (10%): 17.800000000+/-2.821347196
+Norm L0 (1%): 21.600000000+/-3.440930107
+Norm L0 (0.1%): 42.200000000+/-14.140721339
+Norm L0 (0.01%): 431.200000000+/-129.501969097
+Iterations: 1.0
+
+
+
+{'n_neurons': 333, 'regularization_term': 0.01}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9993+/-0.0022
+Mean Precision: 0.9984+/-0.0048
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9992+/-0.0024
+Mean Margin: 8.521151E-02+/-1.335165E-03
+Norm L0 (10%): 355.300000000+/-115.210285999
+Norm L0 (1%): 1121.000000000+/-21.549941995
+Norm L0 (0.1%): 1223.700000000+/-2.794637722
+Norm L0 (0.01%): 1233.400000000+/-1.496662955
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 1000, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9985+/-0.0029
+Mean Precision: 0.9968+/-0.0065
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9984+/-0.0033
+Mean Margin: 1.956259E-02+/-1.472036E-03
+Norm L0 (10%): 240.800000000+/-11.643023662
+Norm L0 (1%): 240.800000000+/-11.643023662
+Norm L0 (0.1%): 240.800000000+/-11.643023662
+Norm L0 (0.01%): 1234.800000000+/-0.400000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 500, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9993+/-0.0022
+Mean Precision: 0.9984+/-0.0048
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9992+/-0.0024
+Mean Margin: 2.360483E-02+/-1.039503E-02
+Norm L0 (10%): 124.300000000+/-31.531095763
+Norm L0 (1%): 124.300000000+/-31.531095763
+Norm L0 (0.1%): 124.300000000+/-31.531095763
+Norm L0 (0.01%): 1234.800000000+/-0.400000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 333, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9993+/-0.0022
+Mean Precision: 0.9984+/-0.0048
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9992+/-0.0024
+Mean Margin: 1.095309E-02+/-3.343604E-03
+Norm L0 (10%): 61.200000000+/-4.354308211
+Norm L0 (1%): 61.200000000+/-4.354308211
+Norm L0 (0.1%): 61.200000000+/-4.354308211
+Norm L0 (0.01%): 1234.800000000+/-0.400000000
+Iterations: 20.0
+
+
+
+MAM
+{'n_neurons': 830, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8590+/-0.0073
+Mean Accuracy: 0.7988+/-0.0544
+Mean Precision: 0.7787+/-0.0521
+Mean Recall: 0.8187+/-0.0822
+Mean F1 Score: 0.7968+/-0.0586
+Mean Margin: 1.484409E-01+/-1.265691E-03
+Norm L0 (10%): 688.100000000+/-19.232524535
+Norm L0 (1%): 747.000000000+/-0.000000000
+Norm L0 (0.1%): 747.000000000+/-0.000000000
+Norm L0 (0.01%): 747.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 415, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8722+/-0.0066
+Mean Accuracy: 0.8024+/-0.0553
+Mean Precision: 0.8068+/-0.0589
+Mean Recall: 0.7815+/-0.0806
+Mean F1 Score: 0.7923+/-0.0608
+Mean Margin: 5.552877E-02+/-7.566080E-04
+Norm L0 (10%): 453.200000000+/-21.469979041
+Norm L0 (1%): 702.500000000+/-7.228416147
+Norm L0 (0.1%): 743.900000000+/-2.507987241
+Norm L0 (0.01%): 746.700000000+/-0.640312424
+Iterations: 1.0
+
+
+
+{'n_neurons': 276, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8663+/-0.0047
+Mean Accuracy: 0.8133+/-0.0555
+Mean Precision: 0.8189+/-0.0585
+Mean Recall: 0.7914+/-0.0830
+Mean F1 Score: 0.8032+/-0.0618
+Mean Margin: 5.505455E-02+/-7.353194E-04
+Norm L0 (10%): 459.200000000+/-20.749939759
+Norm L0 (1%): 718.400000000+/-15.493224325
+Norm L0 (0.1%): 743.600000000+/-3.261901286
+Norm L0 (0.01%): 746.800000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 830, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8779+/-0.0055
+Mean Accuracy: 0.7988+/-0.0590
+Mean Precision: 0.7946+/-0.0513
+Mean Recall: 0.7889+/-0.1003
+Mean F1 Score: 0.7895+/-0.0684
+Mean Margin: 4.654387E-03+/-7.721843E-04
+Norm L0 (10%): 293.200000000+/-7.959899497
+Norm L0 (1%): 293.200000000+/-7.959899497
+Norm L0 (0.1%): 293.200000000+/-7.959899497
+Norm L0 (0.01%): 747.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 415, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8606+/-0.0063
+Mean Accuracy: 0.8133+/-0.0531
+Mean Precision: 0.8144+/-0.0561
+Mean Recall: 0.7989+/-0.0846
+Mean F1 Score: 0.8046+/-0.0587
+Mean Margin: 1.503396E-02+/-2.628799E-03
+Norm L0 (10%): 302.700000000+/-7.785242450
+Norm L0 (1%): 302.700000000+/-7.785242450
+Norm L0 (0.1%): 302.700000000+/-7.785242450
+Norm L0 (0.01%): 747.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 276, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8478+/-0.0066
+Mean Accuracy: 0.8205+/-0.0571
+Mean Precision: 0.8109+/-0.0615
+Mean Recall: 0.8237+/-0.0816
+Mean F1 Score: 0.8156+/-0.0618
+Mean Margin: 2.606270E-02+/-4.311039E-03
+Norm L0 (10%): 308.800000000+/-6.128621378
+Norm L0 (1%): 308.800000000+/-6.128621378
+Norm L0 (0.1%): 308.800000000+/-6.128621378
+Norm L0 (0.01%): 747.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+HAB
+{'n_neurons': 306, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8046+/-0.0063
+Mean Accuracy: 0.7522+/-0.0567
+Mean Precision: 0.7737+/-0.0313
+Mean Recall: 0.9385+/-0.0622
+Mean F1 Score: 0.8473+/-0.0374
+Mean Margin: 2.292643E-01+/-1.206051E-03
+Norm L0 (10%): 275.400000000+/-0.489897949
+Norm L0 (1%): 275.400000000+/-0.489897949
+Norm L0 (0.1%): 275.400000000+/-0.489897949
+Norm L0 (0.01%): 275.400000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'n_neurons': 153, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8065+/-0.0061
+Mean Accuracy: 0.7519+/-0.0614
+Mean Precision: 0.7777+/-0.0352
+Mean Recall: 0.9292+/-0.0627
+Mean F1 Score: 0.8459+/-0.0405
+Mean Margin: 7.751332E-02+/-5.896651E-04
+Norm L0 (10%): 268.800000000+/-3.944616585
+Norm L0 (1%): 275.000000000+/-0.894427191
+Norm L0 (0.1%): 275.300000000+/-0.640312424
+Norm L0 (0.01%): 275.400000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'n_neurons': 102, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.7865+/-0.0079
+Mean Accuracy: 0.7589+/-0.0649
+Mean Precision: 0.7860+/-0.0383
+Mean Recall: 0.9253+/-0.0554
+Mean F1 Score: 0.8494+/-0.0406
+Mean Margin: 2.291475E-01+/-1.381247E-03
+Norm L0 (10%): 275.400000000+/-0.489897949
+Norm L0 (1%): 275.400000000+/-0.489897949
+Norm L0 (0.1%): 275.400000000+/-0.489897949
+Norm L0 (0.01%): 275.400000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 306, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.7967+/-0.0047
+Mean Accuracy: 0.7456+/-0.0521
+Mean Precision: 0.7722+/-0.0311
+Mean Recall: 0.9296+/-0.0521
+Mean F1 Score: 0.8429+/-0.0328
+Mean Margin: 1.132931E-01+/-2.274161E-02
+Norm L0 (10%): 181.500000000+/-22.433234274
+Norm L0 (1%): 181.500000000+/-22.433234274
+Norm L0 (0.1%): 181.500000000+/-22.433234274
+Norm L0 (0.01%): 275.400000000+/-0.489897949
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 153, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8043+/-0.0063
+Mean Accuracy: 0.7553+/-0.0593
+Mean Precision: 0.7806+/-0.0333
+Mean Recall: 0.9294+/-0.0591
+Mean F1 Score: 0.8478+/-0.0386
+Mean Margin: 5.595838E-02+/-3.977007E-03
+Norm L0 (10%): 230.400000000+/-14.051334456
+Norm L0 (1%): 262.800000000+/-8.364209467
+Norm L0 (0.1%): 262.800000000+/-8.364209467
+Norm L0 (0.01%): 267.900000000+/-6.456779383
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 102, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.7985+/-0.0071
+Mean Accuracy: 0.7388+/-0.0445
+Mean Precision: 0.7702+/-0.0244
+Mean Recall: 0.9206+/-0.0614
+Mean F1 Score: 0.8376+/-0.0308
+Mean Margin: 5.600763E-02+/-4.094601E-03
+Norm L0 (10%): 237.400000000+/-13.001538371
+Norm L0 (1%): 266.100000000+/-7.462573283
+Norm L0 (0.1%): 266.100000000+/-7.462573283
+Norm L0 (0.01%): 270.000000000+/-6.148170460
+Iterations: 20.0
+
+
+
+TRA
+{'n_neurons': 748, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8430+/-0.0038
+Mean Accuracy: 0.7901+/-0.0227
+Mean Precision: 0.6086+/-0.0998
+Mean Recall: 0.3373+/-0.0916
+Mean F1 Score: 0.4275+/-0.0901
+Mean Margin: 1.407091E-01+/-3.144485E-04
+Norm L0 (10%): 673.200000000+/-0.400000000
+Norm L0 (1%): 673.200000000+/-0.400000000
+Norm L0 (0.1%): 673.200000000+/-0.400000000
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 374, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8244+/-0.0036
+Mean Accuracy: 0.7874+/-0.0246
+Mean Precision: 0.6163+/-0.1184
+Mean Recall: 0.3147+/-0.0805
+Mean F1 Score: 0.4090+/-0.0824
+Mean Margin: 1.446518E-01+/-3.616820E-04
+Norm L0 (10%): 673.200000000+/-0.400000000
+Norm L0 (1%): 673.200000000+/-0.400000000
+Norm L0 (0.1%): 673.200000000+/-0.400000000
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 249, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8186+/-0.0035
+Mean Accuracy: 0.7927+/-0.0246
+Mean Precision: 0.6424+/-0.1299
+Mean Recall: 0.3203+/-0.0622
+Mean F1 Score: 0.4222+/-0.0692
+Mean Margin: 1.468592E-01+/-5.065413E-04
+Norm L0 (10%): 671.600000000+/-4.882622246
+Norm L0 (1%): 673.200000000+/-0.400000000
+Norm L0 (0.1%): 673.200000000+/-0.400000000
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 748, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8565+/-0.0046
+Mean Accuracy: 0.7767+/-0.0227
+Mean Precision: 0.5629+/-0.1119
+Mean Recall: 0.3199+/-0.0600
+Mean F1 Score: 0.4039+/-0.0646
+Mean Margin: 3.914322E-03+/-2.136929E-03
+Norm L0 (10%): 330.100000000+/-13.427211177
+Norm L0 (1%): 330.100000000+/-13.427211177
+Norm L0 (0.1%): 330.100000000+/-13.427211177
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 374, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8287+/-0.0051
+Mean Accuracy: 0.7887+/-0.0300
+Mean Precision: 0.6069+/-0.1235
+Mean Recall: 0.3425+/-0.0721
+Mean F1 Score: 0.4341+/-0.0819
+Mean Margin: 1.006151E-02+/-1.966822E-03
+Norm L0 (10%): 330.600000000+/-6.359245238
+Norm L0 (1%): 330.600000000+/-6.359245238
+Norm L0 (0.1%): 330.600000000+/-6.359245238
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 249, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8192+/-0.0042
+Mean Accuracy: 0.7941+/-0.0326
+Mean Precision: 0.6368+/-0.1480
+Mean Recall: 0.3425+/-0.0840
+Mean F1 Score: 0.4394+/-0.0930
+Mean Margin: 1.416054E-02+/-3.930616E-03
+Norm L0 (10%): 327.300000000+/-11.180787092
+Norm L0 (1%): 327.300000000+/-11.180787092
+Norm L0 (0.1%): 327.300000000+/-11.180787092
+Norm L0 (0.01%): 673.200000000+/-0.400000000
+Iterations: 20.0
+
+
+
+AUS
+{'n_neurons': 690, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9976+/-0.0008
+Mean Accuracy: 0.8217+/-0.0410
+Mean Precision: 0.8135+/-0.0599
+Mean Recall: 0.7848+/-0.0625
+Mean F1 Score: 0.7966+/-0.0448
+Mean Margin: 1.332670E-01+/-2.060980E-05
+Norm L0 (10%): 621.000000000+/-0.000000000
+Norm L0 (1%): 621.000000000+/-0.000000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 345, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9936+/-0.0012
+Mean Accuracy: 0.8275+/-0.0407
+Mean Precision: 0.8263+/-0.0568
+Mean Recall: 0.7815+/-0.0590
+Mean F1 Score: 0.8013+/-0.0440
+Mean Margin: 1.338963E-01+/-6.071247E-05
+Norm L0 (10%): 621.000000000+/-0.000000000
+Norm L0 (1%): 621.000000000+/-0.000000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 230, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9955+/-0.0006
+Mean Accuracy: 0.8275+/-0.0437
+Mean Precision: 0.8162+/-0.0520
+Mean Recall: 0.7943+/-0.0767
+Mean F1 Score: 0.8028+/-0.0507
+Mean Margin: 5.889909E-02+/-9.425071E-05
+Norm L0 (10%): 615.000000000+/-2.144761059
+Norm L0 (1%): 620.900000000+/-0.300000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 690, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9981+/-0.0010
+Mean Accuracy: 0.8217+/-0.0410
+Mean Precision: 0.8135+/-0.0599
+Mean Recall: 0.7848+/-0.0625
+Mean F1 Score: 0.7966+/-0.0448
+Mean Margin: 1.295356E-01+/-3.555630E-04
+Norm L0 (10%): 621.000000000+/-0.000000000
+Norm L0 (1%): 621.000000000+/-0.000000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 13.3
+
+
+
+{'kernel': 'rbf', 'n_neurons': 345, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9936+/-0.0014
+Mean Accuracy: 0.8290+/-0.0419
+Mean Precision: 0.8269+/-0.0568
+Mean Recall: 0.7847+/-0.0644
+Mean F1 Score: 0.8031+/-0.0460
+Mean Margin: 1.278815E-01+/-2.111288E-03
+Norm L0 (10%): 621.000000000+/-0.000000000
+Norm L0 (1%): 621.000000000+/-0.000000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 19.7
+
+
+
+{'kernel': 'rbf', 'n_neurons': 230, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9916+/-0.0012
+Mean Accuracy: 0.8348+/-0.0468
+Mean Precision: 0.8313+/-0.0601
+Mean Recall: 0.7943+/-0.0767
+Mean F1 Score: 0.8098+/-0.0531
+Mean Margin: 1.148179E-01+/-3.844433E-03
+Norm L0 (10%): 621.000000000+/-0.000000000
+Norm L0 (1%): 621.000000000+/-0.000000000
+Norm L0 (0.1%): 621.000000000+/-0.000000000
+Norm L0 (0.01%): 621.000000000+/-0.000000000
+Iterations: 20.0
+
+
+
+BRE
+{'n_neurons': 683, 'regularization_term': 10}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9487+/-0.0151
+Mean Precision: 0.9495+/-0.0304
+Mean Recall: 0.9038+/-0.0590
+Mean F1 Score: 0.9242+/-0.0247
+Mean Margin: 1.640545E-01+/-5.828182E-04
+Norm L0 (10%): 561.600000000+/-2.374868417
+Norm L0 (1%): 614.700000000+/-0.458257569
+Norm L0 (0.1%): 614.700000000+/-0.458257569
+Norm L0 (0.01%): 614.700000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'n_neurons': 341, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9546+/-0.0153
+Mean Precision: 0.9535+/-0.0288
+Mean Recall: 0.9163+/-0.0493
+Mean F1 Score: 0.9333+/-0.0238
+Mean Margin: 6.000443E-02+/-1.864424E-04
+Norm L0 (10%): 414.300000000+/-19.152284459
+Norm L0 (1%): 569.500000000+/-16.800297616
+Norm L0 (0.1%): 612.300000000+/-3.716180835
+Norm L0 (0.01%): 614.700000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'n_neurons': 227, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9605+/-0.0208
+Mean Precision: 0.9576+/-0.0321
+Mean Recall: 0.9288+/-0.0496
+Mean F1 Score: 0.9421+/-0.0313
+Mean Margin: 6.199819E-02+/-3.069651E-04
+Norm L0 (10%): 457.800000000+/-20.629105652
+Norm L0 (1%): 591.500000000+/-17.766541588
+Norm L0 (0.1%): 612.000000000+/-7.348469228
+Norm L0 (0.01%): 614.700000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 683, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9487+/-0.0151
+Mean Precision: 0.9495+/-0.0304
+Mean Recall: 0.9038+/-0.0590
+Mean F1 Score: 0.9242+/-0.0247
+Mean Margin: 4.990949E-02+/-3.868169E-04
+Norm L0 (10%): 372.000000000+/-2.607680962
+Norm L0 (1%): 391.300000000+/-4.691481642
+Norm L0 (0.1%): 399.600000000+/-5.200000000
+Norm L0 (0.01%): 399.800000000+/-5.582114295
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 341, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9546+/-0.0153
+Mean Precision: 0.9535+/-0.0288
+Mean Recall: 0.9163+/-0.0493
+Mean F1 Score: 0.9333+/-0.0238
+Mean Margin: 6.783043E-02+/-1.537426E-03
+Norm L0 (10%): 345.300000000+/-4.050925820
+Norm L0 (1%): 363.600000000+/-5.314132102
+Norm L0 (0.1%): 363.900000000+/-5.787054518
+Norm L0 (0.01%): 363.900000000+/-5.787054518
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 227, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9561+/-0.0174
+Mean Precision: 0.9498+/-0.0305
+Mean Recall: 0.9246+/-0.0521
+Mean F1 Score: 0.9358+/-0.0266
+Mean Margin: 8.999496E-03+/-1.632765E-02
+Norm L0 (10%): 215.000000000+/-31.106269465
+Norm L0 (1%): 215.000000000+/-31.106269465
+Norm L0 (0.1%): 215.000000000+/-31.106269465
+Norm L0 (0.01%): 614.700000000+/-0.458257569
+Iterations: 20.0
+
+
+
+GLA
+{'n_neurons': 214, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9040+/-0.0070
+Mean Accuracy: 0.7630+/-0.0967
+Mean Precision: 0.6296+/-0.1284
+Mean Recall: 0.7429+/-0.1245
+Mean F1 Score: 0.6757+/-0.1140
+Mean Margin: 9.689273E-02+/-1.007821E-03
+Norm L0 (10%): 181.800000000+/-1.326649916
+Norm L0 (1%): 191.700000000+/-0.458257569
+Norm L0 (0.1%): 192.400000000+/-0.663324958
+Norm L0 (0.01%): 192.500000000+/-0.670820393
+Iterations: 1.0
+
+
+
+{'n_neurons': 107, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8640+/-0.0119
+Mean Accuracy: 0.7623+/-0.0845
+Mean Precision: 0.6405+/-0.1361
+Mean Recall: 0.6714+/-0.1436
+Mean F1 Score: 0.6472+/-0.1301
+Mean Margin: 9.528597E-02+/-9.615703E-04
+Norm L0 (10%): 174.100000000+/-2.624880950
+Norm L0 (1%): 192.400000000+/-0.489897949
+Norm L0 (0.1%): 192.500000000+/-0.500000000
+Norm L0 (0.01%): 192.500000000+/-0.500000000
+Iterations: 1.0
+
+
+
+{'n_neurons': 71, 'regularization_term': 1}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.8437+/-0.0092
+Mean Accuracy: 0.7580+/-0.0851
+Mean Precision: 0.6380+/-0.1366
+Mean Recall: 0.6429+/-0.1597
+Mean F1 Score: 0.6305+/-0.1370
+Mean Margin: 9.458603E-02+/-8.599527E-04
+Norm L0 (10%): 169.000000000+/-3.098386677
+Norm L0 (1%): 192.000000000+/-0.894427191
+Norm L0 (0.1%): 192.500000000+/-0.500000000
+Norm L0 (0.01%): 192.600000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 214, 'regularization_term': 1}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8738+/-0.0165
+Mean Accuracy: 0.7439+/-0.0859
+Mean Precision: 0.6030+/-0.1214
+Mean Recall: 0.6857+/-0.1784
+Mean F1 Score: 0.6308+/-0.1321
+Mean Margin: 4.852538E-02+/-6.425325E-03
+Norm L0 (10%): 161.400000000+/-5.499090834
+Norm L0 (1%): 161.400000000+/-5.499090834
+Norm L0 (0.1%): 161.400000000+/-5.499090834
+Norm L0 (0.01%): 192.600000000+/-0.489897949
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 107, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.8063+/-0.0169
+Mean Accuracy: 0.7487+/-0.0832
+Mean Precision: 0.6711+/-0.1960
+Mean Recall: 0.5571+/-0.1187
+Mean F1 Score: 0.5941+/-0.1191
+Mean Margin: 1.618058E-01+/-3.738968E-02
+Norm L0 (10%): 189.600000000+/-8.879189152
+Norm L0 (1%): 189.600000000+/-8.879189152
+Norm L0 (0.1%): 189.600000000+/-8.879189152
+Norm L0 (0.01%): 192.600000000+/-0.489897949
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 71, 'regularization_term': 10}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.7861+/-0.0144
+Mean Accuracy: 0.7069+/-0.0955
+Mean Precision: 0.6122+/-0.2403
+Mean Recall: 0.4714+/-0.1696
+Mean F1 Score: 0.5078+/-0.1528
+Mean Margin: 1.613641E-01+/-2.558143E-02
+Norm L0 (10%): 190.600000000+/-5.885575588
+Norm L0 (1%): 190.600000000+/-5.885575588
+Norm L0 (0.1%): 190.600000000+/-5.885575588
+Norm L0 (0.01%): 192.600000000+/-0.489897949
+Iterations: 20.0
+
+
+
+SPA
+{'regularization_term': 1, 'n_neurons': 1000}
+SPA
+{'regularization_term': 1, 'n_neurons': 1000}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9974+/-0.0001
+Mean Accuracy: 0.9118+/-0.0172
+Mean Precision: 0.8883+/-0.0295
+Mean Recall: 0.8886+/-0.0220
+Mean F1 Score: 0.8882+/-0.0211
+Mean Margin: 2.384532E-02+/-2.754947E-05
+Norm L0 (10%): 3732.800000000+/-14.483093592
+Norm L0 (1%): 4072.500000000+/-3.612478374
+Norm L0 (0.1%): 4140.900000000+/-0.300000000
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'regularization_term': 1, 'n_neurons': 500, 'seed': 69}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9966+/-0.0002
+Mean Accuracy: 0.9185+/-0.0158
+Mean Precision: 0.9011+/-0.0278
+Mean Recall: 0.8919+/-0.0247
+Mean F1 Score: 0.8961+/-0.0198
+Mean Margin: 2.404571E-02+/-2.743328E-05
+Norm L0 (10%): 3695.000000000+/-14.744490496
+Norm L0 (1%): 4071.600000000+/-3.261901286
+Norm L0 (0.1%): 4140.900000000+/-0.300000000
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'regularization_term': 1, 'n_neurons': 333, 'seed': 69}
+******************** ELM dual ********************
+Mean Train Accuracy: 0.9964+/-0.0003
+Mean Accuracy: 0.9224+/-0.0114
+Mean Precision: 0.9086+/-0.0214
+Mean Recall: 0.8936+/-0.0241
+Mean F1 Score: 0.9007+/-0.0147
+Mean Margin: 2.424642E-02+/-3.965568E-05
+Norm L0 (10%): 3648.700000000+/-11.849472562
+Norm L0 (1%): 4071.600000000+/-3.261901286
+Norm L0 (0.1%): 4140.900000000+/-0.300000000
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 10, 'n_neurons': 1000}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9972+/-0.0002
+Mean Accuracy: 0.9120+/-0.0166
+Mean Precision: 0.8893+/-0.0294
+Mean Recall: 0.8881+/-0.0209
+Mean F1 Score: 0.8884+/-0.0203
+Mean Margin: 8.996502E-04+/-1.157122E-04
+Norm L0 (10%): 3265.400000000+/-9.614572273
+Norm L0 (1%): 3265.400000000+/-9.614572273
+Norm L0 (0.1%): 3265.400000000+/-9.614572273
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 10, 'n_neurons': 500, 'seed': 69}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9965+/-0.0003
+Mean Accuracy: 0.9165+/-0.0152
+Mean Precision: 0.8997+/-0.0270
+Mean Recall: 0.8881+/-0.0260
+Mean F1 Score: 0.8935+/-0.0192
+Mean Margin: 4.104604E-04+/-2.580710E-05
+Norm L0 (10%): 3087.600000000+/-15.557634782
+Norm L0 (1%): 3087.600000000+/-15.557634782
+Norm L0 (0.1%): 3087.600000000+/-15.557634782
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 20.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 10, 'n_neurons': 333, 'seed': 69}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 0.9957+/-0.0004
+Mean Accuracy: 0.9207+/-0.0115
+Mean Precision: 0.9064+/-0.0206
+Mean Recall: 0.8914+/-0.0252
+Mean F1 Score: 0.8985+/-0.0150
+Mean Margin: 3.120933E-04+/-2.109767E-05
+Norm L0 (10%): 2923.200000000+/-24.514485514
+Norm L0 (1%): 2923.200000000+/-24.514485514
+Norm L0 (0.1%): 2923.200000000+/-24.514485514
+Norm L0 (0.01%): 4140.900000000+/-0.300000000
+Iterations: 20.0
+
+
+
+MUS
+{'n_neurons': 1000}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 1.403089E-02+/-6.766190E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'n_neurons': 500, 'seed': 69}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9998+/-0.0005
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 0.9995+/-0.0014
+Mean F1 Score: 0.9998+/-0.0007
+Mean Margin: 1.403091E-02+/-6.876159E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'n_neurons': 333, 'seed': 69}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 1.403205E-02+/-9.797072E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 0, 'n_neurons': 1000}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 1.403089E-02+/-6.766190E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 0, 'n_neurons': 500, 'seed': 69}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9998+/-0.0005
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 0.9995+/-0.0014
+Mean F1 Score: 0.9998+/-0.0007
+Mean Margin: 1.403088E-02+/-6.659223E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 2.0
+
+
+
+{'kernel': 'rbf', 'regularization_term': 0, 'n_neurons': 333, 'seed': 69}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 1.0000+/-0.0000
+Mean Precision: 1.0000+/-0.0000
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 1.0000+/-0.0000
+Mean Margin: 1.402973E-02+/-8.822677E-07
+Norm L0 (10%): 5079.600000000+/-0.489897949
+Norm L0 (1%): 5079.600000000+/-0.489897949
+Norm L0 (0.1%): 5079.600000000+/-0.489897949
+Norm L0 (0.01%): 5079.600000000+/-0.489897949
+Iterations: 2.0
+
+
+
+ROB
+{'n_neurons': 117, 'seed': 69, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8197+/-0.0754
+Mean Precision: 0.5450+/-0.1174
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.6979+/-0.1010
+Mean Margin: 1.076806E-01+/-4.746080E-04
+Norm L0 (10%): 102.700000000+/-1.615549442
+Norm L0 (1%): 105.100000000+/-0.700000000
+Norm L0 (0.1%): 105.300000000+/-0.458257569
+Norm L0 (0.01%): 105.300000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'n_neurons': 58, 'seed': 69, 'regularization_term': 0}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8788+/-0.1008
+Mean Precision: 0.6850+/-0.2027
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.7955+/-0.1475
+Mean Margin: 1.078716E-01+/-6.698294E-04
+Norm L0 (10%): 100.900000000+/-1.374772708
+Norm L0 (1%): 104.800000000+/-0.871779789
+Norm L0 (0.1%): 105.200000000+/-0.600000000
+Norm L0 (0.01%): 105.300000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'n_neurons': 39, 'seed': 69, 'regularization_term': 0.01}
+******************** ELM dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9386+/-0.0811
+Mean Precision: 0.8233+/-0.1988
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.8886+/-0.1343
+Mean Margin: 1.063520E-01+/-1.565239E-03
+Norm L0 (10%): 100.100000000+/-2.426932220
+Norm L0 (1%): 104.600000000+/-0.800000000
+Norm L0 (0.1%): 105.300000000+/-0.458257569
+Norm L0 (0.01%): 105.300000000+/-0.458257569
+Iterations: 1.0
+
+
+
+{'kernel': 'rbf', 'n_neurons': 117, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.7598+/-0.0670
+Mean Precision: 0.4667+/-0.0919
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.6310+/-0.0865
+Mean Margin: 4.555578E-02+/-4.496876E-02
+Norm L0 (10%): 99.900000000+/-6.862215386
+Norm L0 (1%): 100.900000000+/-6.503076195
+Norm L0 (0.1%): 100.900000000+/-6.503076195
+Norm L0 (0.01%): 104.300000000+/-2.051828453
+Iterations: 4.7
+
+
+
+{'kernel': 'rbf', 'n_neurons': 58, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.8879+/-0.0807
+Mean Precision: 0.6917+/-0.1918
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.8026+/-0.1342
+Mean Margin: 1.025648E-01+/-8.543355E-03
+Norm L0 (10%): 90.500000000+/-1.627882060
+Norm L0 (1%): 92.300000000+/-2.193171220
+Norm L0 (0.1%): 92.700000000+/-2.531797780
+Norm L0 (0.01%): 96.200000000+/-4.812483766
+Iterations: 10.1
+
+
+
+{'kernel': 'rbf', 'n_neurons': 39, 'regularization_term': 0}
+******************** RP-IMA dual ********************
+Mean Train Accuracy: 1.0000+/-0.0000
+Mean Accuracy: 0.9561+/-0.0440
+Mean Precision: 0.8500+/-0.1528
+Mean Recall: 1.0000+/-0.0000
+Mean F1 Score: 0.9114+/-0.0908
+Mean Margin: 1.035950E-01+/-6.423278E-03
+Norm L0 (10%): 89.900000000+/-1.513274595
+Norm L0 (1%): 92.200000000+/-1.469693846
+Norm L0 (0.1%): 92.500000000+/-1.802775638
+Norm L0 (0.01%): 94.300000000+/-3.796050579
+Iterations: 9.9
+
+
+
+Data sets   Dual ELM (RBF)                                    \
+                         N              N/2              N/3   
+IRI        1.0000+/-0.0000  1.0000+/-0.0000  1.0000+/-0.0000   
+SYN        1.0000+/-0.0000  1.0000+/-0.0000  0.9983+/-0.0050   
+ION        0.8659+/-0.0560  0.8745+/-0.0369  0.8630+/-0.0688   
+BAN        0.9985+/-0.0029  0.9993+/-0.0022  0.9993+/-0.0022   
+WIN        0.9775+/-0.0372  0.9660+/-0.0448  0.9716+/-0.0378   
+WDBC       0.9560+/-0.0226  0.9631+/-0.0184  0.9648+/-0.0224   
+SON        0.8462+/-0.0821  0.8414+/-0.0835  0.8174+/-0.0736   
+DIA        0.6954+/-0.0409  0.7097+/-0.0419  0.7148+/-0.0382   
+HEA        0.7667+/-0.0704  0.7741+/-0.0819  0.7852+/-0.0699   
+MAM        0.7988+/-0.0544  0.8024+/-0.0553  0.8133+/-0.0555   
+HAB        0.7522+/-0.0567  0.7519+/-0.0614  0.7589+/-0.0649   
+TRA        0.7901+/-0.0227  0.7874+/-0.0246  0.7927+/-0.0246   
+AUS        0.8217+/-0.0410  0.8275+/-0.0407  0.8275+/-0.0437   
+BRE        0.9487+/-0.0151  0.9546+/-0.0153  0.9605+/-0.0208   
+GLA        0.7630+/-0.0967  0.7623+/-0.0845  0.7580+/-0.0851   
+MUS        1.0000+/-0.0000  0.9998+/-0.0005  1.0000+/-0.0000   
+ROB        0.8197+/-0.0754  0.8788+/-0.1008  0.9386+/-0.0811   
+SPA        0.9118+/-0.0172  0.9185+/-0.0158  0.9224+/-0.0114   
+
+Data sets Dual RP-IMA (RBF)                                    
+                          N              N/2              N/3  
+IRI         1.0000+/-0.0000  1.0000+/-0.0000  1.0000+/-0.0000  
+SYN         1.0000+/-0.0000  1.0000+/-0.0000  0.9983+/-0.0050  
+ION         0.8659+/-0.0560  0.8745+/-0.0369  0.8660+/-0.0629  
+BAN         0.9985+/-0.0029  0.9993+/-0.0022  0.9993+/-0.0022  
+WIN         0.9716+/-0.0285  0.9716+/-0.0378  0.9660+/-0.0373  
+WDBC        0.9560+/-0.0226  0.9631+/-0.0184  0.9683+/-0.0220  
+SON         0.8462+/-0.0821  0.8414+/-0.0835  0.8174+/-0.0736  
+DIA         0.6967+/-0.0416  0.7070+/-0.0452  0.6836+/-0.0449  
+HEA         0.7630+/-0.0726  0.7667+/-0.0742  0.7667+/-0.0643  
+MAM         0.7988+/-0.0590  0.8133+/-0.0531  0.8205+/-0.0571  
+HAB         0.7456+/-0.0521  0.7553+/-0.0593  0.7388+/-0.0445  
+TRA         0.7767+/-0.0227  0.7887+/-0.0300  0.7941+/-0.0326  
+AUS         0.8217+/-0.0410  0.8290+/-0.0419  0.8348+/-0.0468  
+BRE         0.9487+/-0.0151  0.9546+/-0.0153  0.9561+/-0.0174  
+GLA         0.7439+/-0.0859  0.7487+/-0.0832  0.7069+/-0.0955  
+MUS         1.0000+/-0.0000  0.9998+/-0.0005  1.0000+/-0.0000  
+ROB         0.7598+/-0.0670  0.8879+/-0.0807  0.9561+/-0.0440  
+SPA         0.9120+/-0.0166  0.9165+/-0.0152  0.9207+/-0.0115  
+\begin{tabular}{lllllll}
+\toprule
+Data sets & \multicolumn{3}{l}{Dual ELM (RBF)} & \multicolumn{3}{l}{Dual RP-IMA (RBF)} \\
+{} &                N &              N/2 &              N/3 &                 N &              N/2 &              N/3 \\
+\midrule
+IRI  &  1.0000+/-0.0000 &  1.0000+/-0.0000 &  1.0000+/-0.0000 &   1.0000+/-0.0000 &  1.0000+/-0.0000 &  1.0000+/-0.0000 \\
+SYN  &  1.0000+/-0.0000 &  1.0000+/-0.0000 &  0.9983+/-0.0050 &   1.0000+/-0.0000 &  1.0000+/-0.0000 &  0.9983+/-0.0050 \\
+ION  &  0.8659+/-0.0560 &  0.8745+/-0.0369 &  0.8630+/-0.0688 &   0.8659+/-0.0560 &  0.8745+/-0.0369 &  0.8660+/-0.0629 \\
+BAN  &  0.9985+/-0.0029 &  0.9993+/-0.0022 &  0.9993+/-0.0022 &   0.9985+/-0.0029 &  0.9993+/-0.0022 &  0.9993+/-0.0022 \\
+WIN  &  0.9775+/-0.0372 &  0.9660+/-0.0448 &  0.9716+/-0.0378 &   0.9716+/-0.0285 &  0.9716+/-0.0378 &  0.9660+/-0.0373 \\
+WDBC &  0.9560+/-0.0226 &  0.9631+/-0.0184 &  0.9648+/-0.0224 &   0.9560+/-0.0226 &  0.9631+/-0.0184 &  0.9683+/-0.0220 \\
+SON  &  0.8462+/-0.0821 &  0.8414+/-0.0835 &  0.8174+/-0.0736 &   0.8462+/-0.0821 &  0.8414+/-0.0835 &  0.8174+/-0.0736 \\
+DIA  &  0.6954+/-0.0409 &  0.7097+/-0.0419 &  0.7148+/-0.0382 &   0.6967+/-0.0416 &  0.7070+/-0.0452 &  0.6836+/-0.0449 \\
+HEA  &  0.7667+/-0.0704 &  0.7741+/-0.0819 &  0.7852+/-0.0699 &   0.7630+/-0.0726 &  0.7667+/-0.0742 &  0.7667+/-0.0643 \\
+MAM  &  0.7988+/-0.0544 &  0.8024+/-0.0553 &  0.8133+/-0.0555 &   0.7988+/-0.0590 &  0.8133+/-0.0531 &  0.8205+/-0.0571 \\
+HAB  &  0.7522+/-0.0567 &  0.7519+/-0.0614 &  0.7589+/-0.0649 &   0.7456+/-0.0521 &  0.7553+/-0.0593 &  0.7388+/-0.0445 \\
+TRA  &  0.7901+/-0.0227 &  0.7874+/-0.0246 &  0.7927+/-0.0246 &   0.7767+/-0.0227 &  0.7887+/-0.0300 &  0.7941+/-0.0326 \\
+AUS  &  0.8217+/-0.0410 &  0.8275+/-0.0407 &  0.8275+/-0.0437 &   0.8217+/-0.0410 &  0.8290+/-0.0419 &  0.8348+/-0.0468 \\
+BRE  &  0.9487+/-0.0151 &  0.9546+/-0.0153 &  0.9605+/-0.0208 &   0.9487+/-0.0151 &  0.9546+/-0.0153 &  0.9561+/-0.0174 \\
+GLA  &  0.7630+/-0.0967 &  0.7623+/-0.0845 &  0.7580+/-0.0851 &   0.7439+/-0.0859 &  0.7487+/-0.0832 &  0.7069+/-0.0955 \\
+MUS  &  1.0000+/-0.0000 &  0.9998+/-0.0005 &  1.0000+/-0.0000 &   1.0000+/-0.0000 &  0.9998+/-0.0005 &  1.0000+/-0.0000 \\
+ROB  &  0.8197+/-0.0754 &  0.8788+/-0.1008 &  0.9386+/-0.0811 &   0.7598+/-0.0670 &  0.8879+/-0.0807 &  0.9561+/-0.0440 \\
+SPA  &  0.9118+/-0.0172 &  0.9185+/-0.0158 &  0.9224+/-0.0114 &   0.9120+/-0.0166 &  0.9165+/-0.0152 &  0.9207+/-0.0115 \\
+\bottomrule
+\end{tabular}
